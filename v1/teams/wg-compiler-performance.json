@@ -1,0 +1,42 @@
+{
+  "name": "wg-compiler-performance",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": true
+    },
+    {
+      "name": "Wesley Wiser",
+      "github": "wesleywiser",
+      "github_id": 831192,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-compiler-performance",
+        "members": [
+          831192,
+          5047365
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Compiler performance working group",
+    "description": "Improving rustc compilation performance (build times)",
+    "page": "wg-compiler-performance",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}
